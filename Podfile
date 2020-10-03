@@ -10,6 +10,9 @@ target 'Flix' do
   #pod 'Alamofire', '~> 5.2'
   pod 'AlamofireImage'	
   
+=======
+pod 'AlamofireImage'
+>>>>>>> main
 
   target 'FlixTests' do
     inherit! :search_paths
@@ -19,6 +22,11 @@ target 'Flix' do
   target 'FlixUITests' do
     # Pods for testing
   end
+<<<<<<< HEAD
 end
 
 
+=======
+
+end
+>>>>>>> main
